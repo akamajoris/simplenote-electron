@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Automattic/simplenote-electron.git"
+    "url": "git://github.com/adlk/simplenote-test.git"
   },
   "engines": {
     "node": ">= 7.9.0",
